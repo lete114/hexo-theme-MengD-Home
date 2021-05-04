@@ -10,6 +10,7 @@ Demo：[https://lete114.top](https://lete114.top)
 
 Docs：[https://blog.lete114.top/article/Hexo-MengD.html](https://blog.lete114.top/article/Hexo-MengD.html)
 
+注意：目前已转出，不再使用hexo生成[https://github.com/lete114/HomePage](https://github.com/lete114/HomePage)
 
 ## 安装
 
